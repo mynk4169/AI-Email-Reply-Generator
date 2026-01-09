@@ -1,6 +1,5 @@
 GEMINI_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=;GEMINI_KEY=AIzaSyCmIiY6ZuRRWeq-seTZyTwGIAKlib0dU3U 
-Here is a **professional, clean, and interview-ready `README.md`** for your project.
-You can **directly copy–paste** this into your GitHub repository ✅
+
 
 ---
 
